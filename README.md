@@ -1,5 +1,5 @@
-## Conversor de Monedas
+# Conversor de Monedas
 
-### Integrantes:
+## Integrantes:
 
-# - Edu Jampier Caceres Ruiz
+### - Edu Jampier Caceres Ruiz
